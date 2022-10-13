@@ -6,7 +6,15 @@
     <title>DOCUMENTS</title>
 </head>
 <body>
-<h1>BIENVENIDOS</H1>
-
+   <header>
+      <div id=header>
+         <div>
+              <h1>BIENVENIDOS</h1>
+              </div>
+         <div>
+              <img id=img.header href"" weith "" ></img>
+              </div>
+      </div>
+    </header>   
 </body>
 html/>
